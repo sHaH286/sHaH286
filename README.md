@@ -85,9 +85,9 @@ I specialize in transforming raw data into insights using tools like **SQL, Pyth
 
 ## 🤝 Let’s Connect!
 
-* 🔗 LinkedIn: *Add your LinkedIn URL here*
+* 🔗 LinkedIn: https://www.linkedin.com/in/sharjil-shah/
 * 📂 GitHub: *This profile*
-* 📧 Email: *Add your email*
+* 📧 Email: sharjil286@gmail.com
 
 ---
 
